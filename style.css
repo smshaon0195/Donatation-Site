@@ -25,8 +25,7 @@
 .menubarNave ul{
     display: flex;
     gap: 30px;
-    
-   
+      
 }
 .menuList{
     width: 50%;
@@ -38,6 +37,10 @@
     text-decoration: none;
     font-size: 20px;
     color: white;
+}
+.menubarNave li:hover{
+    transform: scale(1.1);
+
 }
 /* Header containt */
 .bg_img{
